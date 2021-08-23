@@ -1,0 +1,67 @@
+body {
+background-color: #76dbaa;
+background-image: url('gifs_buttons/hellokit.gif');
+background-image:
+text-align: left;
+}
+#main {
+width: 1000px;
+height: 2000px;
+background: #d3ac4b;
+margin: 25px auto;
+border: solid 2px #fff000;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Courier New";
+font: 24pt;
+color: #ff0000;
+}
+h2 {
+text-align: right;
+font-family:"Courier New";
+font: 20pt;
+color: #ff0000;
+}
+hr {
+height: 2px;
+color: #8f139f;
+}
+h2 {
+font-family:"times new roman";
+font-size: 16pt;
+font-weight: 100
+font-style: italic
+text-align: center;
+}
+h3 {
+font-family:"courier new";
+text-decoration: line-through;
+}
+h4 {
+font-size: 1.5em;
+background-color: #ccc;
+margin: 20px;
+padding: 40px;
+}
+p {
+font-family:"Courier";
+font-size: 12pt;
+text-align: left;
+text-indent: 48px;
+color: #18fff9;
+}
+q {
+font-family:"Courier";
+font-size: 12pt;
+text-align: left;
+text-indent: 48px;
+color: #18fff9;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
