@@ -6,7 +6,7 @@ text-align: left;
 #main {
 width: 1000px;
 height: 2000px;
-background: #d3ac4b;
+background: #d3ac4b; rgba(211, 172, 75, 0.5);
 margin: 25px auto;
 border: solid 2px #fff000;
 padding: 10px;
