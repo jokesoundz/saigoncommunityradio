@@ -1,2 +1,3 @@
 # saigoncommunityradio
-I am building a radio station which is not a radio station... more like a community website for people all around the edges of the internet to come and explore music and other sound based artistic things that happen or happened in Saigon.
+I am building a radio station which is not a radio station, so much as a portal for music (related) shows, links, etc related to things happening in Saigon.
+Relevant to people who exist and can hunt for it from all the corners of the internets.
