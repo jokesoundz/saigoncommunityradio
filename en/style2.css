@@ -1,0 +1,92 @@
+HTML,BODY {
+cursor: url("tools/rat.ani"), url("tools/rat.gif"), auto;
+}
+A:hover {
+cursor: url("tools/hand.cur"), url("tools/hand.gif"), auto;
+}
+body {
+font-family: Courier New, times new roman;
+}
+.responsive {
+width: 50%;
+height: auto;
+}
+hr {
+border-style: dashed;
+}
+a.room:link, a.room:visited {
+color: #808080;
+}
+a.room:hover, a.room:active {
+color: #d8d8d8;
+font-size: 300%;
+}
+a.a:link, a.a:visited {
+color: #0080ff;
+}
+a.a:hover, a.a:active {
+color: #fff;
+background: #0080ff;
+}
+table, th, td {
+border: 1px solid white;
+border-collapse: collapse;
+padding: 10px;
+}
+td {
+word-wrap: break-word;
+}
+.about {
+  float: center;
+  width: auto;
+  height: auto;
+  background: #000;
+  padding: 20px;
+  border-style: dashed;
+}
+
+#toilet {
+padding: 20px;
+background: #000;
+overflow: auto;
+width: 95%;
+border: dashed;
+border-color: #ffd700;
+color: #ffd700;
+}
+#library {
+padding: 20px;
+background: #000;
+overflow: auto;
+width: 95%;
+border: dashed;
+border-color: #ffd700;
+color: #ffd700;
+}
+#balcony {
+padding: 20px;
+background: #000;
+overflow: auto;
+width: 95%;
+border: dashed;
+border-color: #d8d8d8;
+color: #d8d8d8;
+}
+#jungle {
+padding: 20px;
+background: #000;
+overflow: auto;
+width: 95%;
+border: dashed;
+border-color: #00ff00;
+color: #00ff00;
+}
+#space {
+padding: 20px;
+background: #fff;
+overflow: auto;
+width: 95%;
+border: dashed;
+border-color: #0f0f0f;
+color: #0f0f0f;
+}
