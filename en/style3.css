@@ -1,0 +1,6 @@
+HTML,BODY {
+cursor: url("tools/rat.ani"), url("tools/rat.gif"), auto;
+}
+A:hover {
+cursor: url("tools/hand.cur"), url("tools/hand.gif"), auto;
+}
