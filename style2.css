@@ -45,6 +45,17 @@ word-wrap: break-word;
   border-style: dashed;
 }
 
+#banner {
+  float: center;
+  text-align: center;
+  width: auto;
+  height: auto;
+  background: #000;
+  padding: 20px;
+  color: white;
+  border-style: outset;
+}
+
 #toilet {
 padding: 20px;
 background: #000;
