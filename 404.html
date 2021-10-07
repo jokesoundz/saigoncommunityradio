@@ -18,10 +18,12 @@
         }
         div {
             padding: 100px;
+            size: auto;
             text-align: center;
             font-size: larger;
             color: white;
             background-color: black;
+            border: dashed;
         }
         a.a:link, a.a:visited {
             color: #0080ff;
@@ -30,14 +32,42 @@
             color: #fff;
             background: #0080ff;
         }
+        .button {
+            display: inline-block;
+            padding: 15px 25px;
+            font-size: 18px;
+            cursor: url("tools/hand.gif"), url("tools/hand.ani"), auto;
+            text-align: center;
+            text-decoration: none;
+            outline: none;
+            color: #fff;
+            background-color: #0080ff;
+            border: none;
+            box-shadow: 0 9px #999;
+}
+
+        .button:hover {
+            background-color: #0069d1;
+        }
+
+        .button:active {
+            background-color: #0069d1;
+            box-shadow: 0 5px #666;
+            transform: translateY(4px);
+        }
     </style>
 </head>
 <body>
     <div>
-        <img src="images/gifs/underconstruction.gif" alt="thợ hồ" width="90" height="135">
-        <h1>ERROR:404</h1>
-        <p>Đụ má... something is broken.</p>
-        <p>Click those shoes to go back <a class="a" href="index.html">home</a>.</p>
+        <p>Aaarggh... something is broken.</p>
+        <img src="images/gifs/underconstruction.gif" alt="thợ hồ" width="90" height="135" title="đụ má">
+        <h1><pre>ERROR:404</pre></h1>
+        <hr>
+        <marquee>click the button to send us an email, or click those heels to go back home.</marquee>
+        <hr>
+        <br>
+        <a href="mailto:saigoncommunityradio@hotmail.com?Subject=Xin chào"><button class="button">Email \..SG_CR../</button></a>
+        <br><br><br>
         <a href="index.html"><img src="images/gifs/dorothyHOME.gif" alt="red slippers"></a>
     </div>
 </body>
