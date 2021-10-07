@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        HTML,BODY {
+        cursor: url("tools/rat.gif"), url("tools/rat.ani"), auto;
+        }
+        A:hover {
+        cursor: url("tools/hand.gif"), url("tools/hand.ani"), auto;
+        }
+        
         body {
             background-color: black;
         }
@@ -16,10 +23,10 @@
             color: white;
             background-color: black;
         }
-        a:link, a:visited {
+        a.a:link, a.a:visited {
             color: #0080ff;
         }
-        a:hover, a:active {
+        a.a:hover, a.a:active {
             color: #fff;
             background: #0080ff;
         }
@@ -30,8 +37,8 @@
         <img src="images/gifs/underconstruction.gif" alt="thợ hồ" width="90" height="135">
         <h1>ERROR:404</h1>
         <p>Aaaaarggh... sorry, our website is broken.</p>
-        <p>Click those shoes to go back <a href="index.html">home</a>.</p>
-        <a class="giflink" href="index.html"><img src="images/gifs/dorothyHOME.gif" alt="red slippers"></a>
+        <p>Click those shoes to go back <a class="a" href="index.html">home</a>.</p>
+        <a href="index.html"><img src="images/gifs/dorothyHOME.gif" alt="red slippers"></a>
     </div>
 </body>
 </html>
