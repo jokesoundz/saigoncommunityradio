@@ -1,0 +1,15 @@
+HTML,BODY {
+    cursor: url("tools/rat.ani"), url("tools/rat.gif"), auto;
+    }
+    A:hover {
+    cursor: url("tools/hand.cur"), url("tools/hand.gif"), auto;
+    }
+    * {
+        box-sizing: border-box;
+      }
+    body {
+      font-family: Courier New, times new roman;
+      background-color: #84c464;
+      background-image: url("images/gifs/frog.gif");
+      text-align: center;
+    }
