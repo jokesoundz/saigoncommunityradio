@@ -9,17 +9,17 @@ HTML,BODY {
     }
     body {
     font-family: Courier New, times new roman;
-    background-color: #84c464;
-    background-image: url("images/gifs/frog.gif");
+    background-color: #008b8c;
+    background-image: url("images/gifs/.gif");
     text-align: center;
     }
     #main {
     float: center;
     width: 90%;
     height: auto;
-    background: #d3ac4b;
+    background: #008b8c;
     margin: 25px auto;
-    border: solid 2px #fff000;
+    border: solid 2px #c7c3c9;
     padding: 10px;
     }
 
@@ -31,15 +31,15 @@ HTML,BODY {
     cursor: pointer;
     outline: none;
     color: #fff;
-    background-color: #04AA6D;
+    background-color: #c7c3c9;
     border: none;
-    box-shadow: 0 9px #999;
+    box-shadow: 0 9px #303030;
   }
   
-  .button:hover {background-color: #3e8e41}
+  .button:hover {background-color: #cacaca}
   
   .button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px #666;
+    background-color: #cacaca;
+    box-shadow: 0 5px #303030;
     transform: translateY(4px);
   }
