@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="vn">
+
+<head>
+<meta charset="UTF=8">
+ <meta name="description" content="welcome to the WEBCORE extreme website 4 saigon community radio">
+ <meta name="keywords" content="saigon community radio saigoncommunityradio sai gon sài gòn sgcr sg cr \..SG_CR../">
+<link href="style5.css" type="text/css" rel="stylesheet">
+<title>\..SG_CR../ :::: <3 saigon community radio <3 ::::</title>
+</head>
+
+<body>
+<div id="main" class="responsive">
+<header>
+<p align="right"><a href="./index.html">Tiếng Việt</a> / <a href="./index-en.html">English</a></p>
+<h1>\..SG_CR../</h1>
+<p style="text-align:center;">bạn thuộc về nơi này  ¸.·´¯`·.´¯`·.¸¸.·´¯`·.¸><(((º></p>
+<p style="color: white">Click vào xoắn ốc!!!</a></p>
+<a href="https://saigoncommunityradio.hotglue.me/"><img src="./images/gifs/swirl.gif" alt="hypnosis" width="100" title="Magickkkkk" class="move responsive center"></a>
+<hr>
+</header>
+
+<section>
+<article>
+<h1>trang web là một thế giới của kho thông tin</h1>
+<p>Chào mừng đến với mạng lưới toàn cầu của <strong>Saigon Community Radio</strong> \..SG_CR../</p>
+<p>Âm nhac, tiếng ồn và những âm thanh kết nối đến các cộng đồng tại Saigon <3</p>
+<p>´¯`♫♪.(-(-_(-_-)_-)-).♫♪´¯`</p>
+<p>Một góc nhỏ của internet này có thể thay đổi cuộc đời của bạn.</p>
+<hr>
+
+<h1>Cổng dẫn đến với một chiều không gian khác</h1>
+<p>//*CẢNH BÁO!*//*CÁC TRANG CỦA CHÚNG TÔI BAO GỒM CÁCH HÌNH ẢNH NHẤP NHÁY!*//</p>
+<a href="map.html"><img src="./images/underground.jpeg" alt="bản đồ hệ thống bí mật" width="400" height="250" title="(ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧ đi thôi" class="move responsive center"></a>
+ </article>
+
+<nav>
+<br>
+<p">ở lại một chút, hãy nhìn xem</p>
+<h3>\ khám phá trang web của chúng tôi /</h3>
+<ul>
+<li><a class="room" href="toilet.html">nhà vệ sinh</a></li>
+<li><a class="room" href="library.html">thư viện</a></li>
+<li><a class="room" href="balcony.html">ban công</a></li>
+</ul>
+<h3>/ Đi vào thế giới của chúng tôi \</h3>
+<ul>
+<li><a class="room" href="jungle.html">khu rừng</a></li>
+<li><a class="room" href="space.html">k h ô n g _ g i a n</a></li>
+</ul>
+<h3>\..SG_CR../</h3>
+</nav>
+<hr>
+
+</section>
+
+
+<br>
+<img src="./images/gifs/eternalmoon.gif" width="469" height="99" alt="sailor moon" title="có nhiều điều mà bạn chưa biết">
+<marquee><h1 id="external">Eating without vegetables is like a rich man’s funeral without music.</h1></marquee>
+<p>nhấp vào các đường links dưới đây để nghe những chương trình ngoài trang web2.0 của chúng tôi</p>
+<article id="banner">
+<h3>Saigon Community Radio</h3>
+<a class="ext" href="https://soundcloud.com/saigoncommunityradio/" target="_blank" title="sounds">|soundcloud|</a>
+<a class="ext" href="https://www.mixcloud.com/saigoncommunityradio/" target="_blank" title="boring">|mixcloud|</a>
+<a class="ext" href="https://www.instagram.com/saigoncommunityradio/" target="_blank" title="shitposting">|instagram|</a>
+<h3>\..SG_CR../</h3>
+</article>
+<p>đây không phải là cộng đồng radio bình thương</p>
+<p><3 Saigon <3</p>
+<hr>
+<a href="https://saigoncommunityradio.hotglue.me/"><img src="./images/gifs/swirl.gif" alt="hypnosis" width="100" title="Magickkkkk"></a>
+<h3>Chưa kết thúc đâu</h3>
+<a href="credits.html">Web Credits</a>
+(/¯◡ ‿ ◡)/¯ ~ ┻━┻</p>
+<br>
+<img src="./images/gifs/macintosh2.gif" alt="macintosh" width="100">
+<img src="./images/gifs/geocities.gif" alt="geocities" width="100">
+<img src="./images/gifs/gay.gif" alt="gay" width="100">
+</div>
+
+</body>
+
+</html>
