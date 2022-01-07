@@ -12,6 +12,7 @@ HTML,BODY {
     background-color: #040404;
     background-image: url(images/gifs/animate.gif);
     text-align: center;
+    color: #fff;
     }
     #main {
     float: center;
@@ -30,6 +31,7 @@ HTML,BODY {
     text-align: center;
     outline: none;
     color: #fff;
+    cursor: url("tools/hand.gif"), url("tools/hand.ani"), auto;
     background-color: #d22efc;
     border: none;
     box-shadow: 0 9px #6404fc;
