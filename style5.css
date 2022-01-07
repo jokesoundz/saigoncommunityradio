@@ -10,7 +10,7 @@ HTML,BODY {
     body {
     font-family: Courier New, times new roman;
     background-color: #008b8c;
-    background-image: url();
+    background-image: url(images/gifs/gridanti.gif);
     text-align: center;
     }
     #main {
@@ -49,10 +49,15 @@ HTML,BODY {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
     width: 100%;
-    }
-    .responsive {
+  }
+
+.responsive {
     width: 50%;
     height: auto;
-    }
+  }
     
