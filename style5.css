@@ -25,6 +25,38 @@ HTML,BODY {
     }
 
 
+
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      li {
+        display: inline;
+      }
+      a.room:link, a.room:visited {
+        background-color: #d22efc;
+        color: white;
+        padding: 4px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+      }
+      a.room:hover, a.room:active {
+        background-color: #c034ff;
+      }
+      a:link, a:visited {
+        color: #fff
+      }
+      a:hover, a:active {
+        color: #f44336;
+      }
+
+
+
+
 .button {
     padding: 20px 35px;
     font-size: 30px;
