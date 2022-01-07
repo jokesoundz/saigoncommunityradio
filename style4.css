@@ -10,5 +10,6 @@ HTML,BODY {
     body {
       font-family: Courier New, times new roman;
       background-image: url("images/gifs/we-love-sg-cr-long-grey.gif");
+      background-attachment: fixed;
       text-align: center;
     }
