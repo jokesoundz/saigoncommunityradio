@@ -43,3 +43,16 @@ HTML,BODY {
     box-shadow: 0 5px #303030;
     transform: translateY(4px);
   }
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    }
+    .responsive {
+    width: 50%;
+    height: auto;
+    }
+    
