@@ -47,13 +47,11 @@ HTML,BODY {
 
 
   .center {
-    display: flex;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
     width: 100%;
+    }
   }
 
 .responsive {
@@ -82,4 +80,4 @@ HTML,BODY {
     nav, article {
       width: 100%;
       height: auto;
-  }}
+  }
