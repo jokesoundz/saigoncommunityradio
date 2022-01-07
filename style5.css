@@ -1,3 +1,29 @@
+HTML,BODY {
+    cursor: url("tools/rat.gif"), url("tools/rat.ani"), auto;
+    }
+    A:hover {
+    cursor: url("tools/hand.gif"), url("tools/hand.ani"), auto;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+    font-family: Courier New, times new roman;
+    background-color: #84c464;
+    background-image: url("images/gifs/frog.gif");
+    text-align: center;
+    }
+    #main {
+    float: center;
+    width: 90%;
+    height: auto;
+    background: #d3ac4b;
+    margin: 25px auto;
+    border: solid 2px #fff000;
+    padding: 10px;
+    }
+
+
 .button {
     padding: 15px 25px;
     font-size: 24px;
@@ -7,7 +33,6 @@
     color: #fff;
     background-color: #04AA6D;
     border: none;
-    border-radius: 15px;
     box-shadow: 0 9px #999;
   }
   
