@@ -9,7 +9,7 @@ HTML,BODY {
     }
     body {
     font-family: Courier New, times new roman;
-    background-color: #008b8c;
+    background-color: #040404;
     background-image: url(images/gifs/animate.gif);
     text-align: center;
     }
@@ -17,9 +17,9 @@ HTML,BODY {
     float: center;
     width: 90%;
     height: auto;
-    background: #45929b;
+    background: #040404;
     margin: 25px auto;
-    border: solid 2px #c7c3c9;
+    border: solid 2px #6404fc;
     padding: 10px;
     }
 
@@ -28,19 +28,18 @@ HTML,BODY {
     padding: 15px 25px;
     font-size: 24px;
     text-align: center;
-    cursor: pointer;
     outline: none;
     color: #fff;
-    background-color: #c7c3c9;
+    background-color: #d22efc;
     border: none;
-    box-shadow: 0 9px #303030;
+    box-shadow: 0 9px #6404fc;
   }
   
-  .button:hover {background-color: #cacaca}
+  .button:hover {background-color: #c034ff}
   
   .button:active {
-    background-color: #cacaca;
-    box-shadow: 0 5px #303030;
+    background-color: #c034ff;
+    box-shadow: 0 5px #6404fc;
     transform: translateY(4px);
   }
 
