@@ -78,9 +78,9 @@ HTML,BODY {
     background-color: #ffffff;
     background-image: url("images/gifs/we-love-sg-cr-long-green.gif");
     text-align: center;
+    background-attachment: fixed;
     /* background-repeat: no-repeat; */
-    /* background-attachment: fixed; */
-      
+
     }
 
     .container {
