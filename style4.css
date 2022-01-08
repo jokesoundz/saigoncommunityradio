@@ -13,3 +13,7 @@ HTML,BODY {
       background-attachment: fixed;
       text-align: center;
     }
+
+    p.inset {
+      border-style: inset;
+    }
