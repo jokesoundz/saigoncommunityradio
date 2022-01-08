@@ -67,6 +67,7 @@ HTML,BODY {
 
 .button {
     padding: 20px 35px;
+    font: Courier New;
     font-size: 30px;
     text-align: center;
     outline: none;
