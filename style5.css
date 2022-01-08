@@ -11,6 +11,7 @@ HTML,BODY {
     font-family: Courier New, times new roman;
     background-color: #040404;
     background-image: url(images/gifs/animate.gif);
+    background-attachment: fixed;
     text-align: center;
     color: #fff;
     }
