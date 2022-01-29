@@ -22,13 +22,11 @@ HTML,BODY {
     background: #040404;
     margin: 25px auto;
     border: solid 2px #6404fc;
+    vertical-align: middle;
     padding: 10px;
     }
    
-    .middle {
-      display: table-cell;
-      vertical-align: middle;
-    }
+
 
 
 
