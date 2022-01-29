@@ -24,7 +24,11 @@ HTML,BODY {
     border: solid 2px #6404fc;
     padding: 10px;
     }
-
+   
+    .middle {
+      display: table-cell;
+      vertical-align: middle;
+    }
 
 
 
